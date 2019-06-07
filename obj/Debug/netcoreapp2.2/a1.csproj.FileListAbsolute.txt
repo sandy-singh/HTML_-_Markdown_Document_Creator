@@ -1,0 +1,11 @@
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\obj\Debug\netcoreapp2.2\a1.csprojAssemblyReference.cache
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\obj\Debug\netcoreapp2.2\a1.csproj.CoreCompileInputs.cache
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\obj\Debug\netcoreapp2.2\a1.AssemblyInfoInputs.cache
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\obj\Debug\netcoreapp2.2\a1.AssemblyInfo.cs
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\bin\Debug\netcoreapp2.2\a1.deps.json
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\bin\Debug\netcoreapp2.2\a1.runtimeconfig.json
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\bin\Debug\netcoreapp2.2\a1.runtimeconfig.dev.json
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\bin\Debug\netcoreapp2.2\a1.dll
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\bin\Debug\netcoreapp2.2\a1.pdb
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\obj\Debug\netcoreapp2.2\a1.dll
+C:\FanshaweCollege\Semester4\SoftwareDesignPatterns1-INFO3137\Assignment\Assi1Starter\obj\Debug\netcoreapp2.2\a1.pdb
